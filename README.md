@@ -1,0 +1,2 @@
+# segmentsIntersection
+Segments intersections finder
